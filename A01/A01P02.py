@@ -1,4 +1,4 @@
-'''Write a python program to check wheather the number us negative, positive or equal to zero
+'''Write a python program to check wheather the number is negative, positive or equal to zero
 Input: -2
 Output: -2 is the negative number'''
 a = int(input())
